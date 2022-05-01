@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hi I'm Jakub
 
-<!--
-**jakub-c/jakub-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm an Agile Coach helping fix the problem of food waste. I'm part of a team building [Alsense IoT application](https://www.danfoss.com/en/products/dcs/monitoring-and-services/alsense-food-retail/) in a great danish company called [Danfoss](https://www.danfoss.com/).
+
+- 🌱 I'm interested in:
+  - [niche programming languages](https://github.com/jakub-c/exercises-the-little-schemer)
+  - [knowledge base systems](https://jkbc.io/notes/)
+  - helping humans build software and be happy about it
+  <!--
+  **jakub-c/jakub-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
