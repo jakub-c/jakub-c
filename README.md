@@ -1,6 +1,6 @@
 # Hi I'm Jakub
 
-- 🔭 I'm an Agile Coach helping fix the problem of food waste. I'm part of a team building [Alsense IoT application](https://www.danfoss.com/en/products/dcs/monitoring-and-services/alsense-food-retail/) in a great danish company called [Danfoss](https://www.danfoss.com/).
+- 🔭 I'm an Engineering Manager helping fix the problem of food waste. I'm part of a team building [Alsense IoT application](https://www.danfoss.com/en/products/dcs/monitoring-and-services/alsense-food-retail/) in a great danish company called [Danfoss](https://www.danfoss.com/).
 
 - 🌱 I'm interested in:
   - [niche programming languages](https://github.com/jakub-c/exercises-the-little-schemer)
